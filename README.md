@@ -1,1 +1,2 @@
 # projectjava
+sample project 
